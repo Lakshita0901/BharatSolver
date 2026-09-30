@@ -1,0 +1,7 @@
+{
+  "name": "BharatSolve Sovereign Optimization Engine",
+  "description": "Indigenous GPU-accelerated mathematical optimization solver for LP, MILP, and QP with Revised Simplex, Mehrotra Interior Point, Branch-and-Cut, and sovereign industrial benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
